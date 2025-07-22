@@ -14,7 +14,7 @@ The main objective of this project is to develop a real-time emotion detection s
 
 - **Internship Title:** Machine Learning Internship  
 - **Organization:** YBI Foundation  
-- **Intern:**Muhmmed Ansari 
+- **Intern:** Muhammed Ansari 
 - **Duration:** [15 days ]  
 - **Project Topic:** Emotion Detection Using Deep Learning  
 
